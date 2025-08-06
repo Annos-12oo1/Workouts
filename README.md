@@ -5,7 +5,7 @@
 ## 🏋️‍♂️ Features
 
 - **🏠 Home Page**  
-  Includes an integrated **Supplements Shop** where users can browse, add to cart, and complete a full checkout experience.
+  Includes an integrated **Supplements Information**
 
 - **💪 Left Sidebar (Top)**  
   Explore **Tips & Drills** categorized by muscle group. Click on a specific muscle to view targeted exercises and playable drill animations.
